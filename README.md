@@ -1,2 +1,2 @@
 # hello
-If you are not familiar with Z3, you can start [here](https://github.com/Z3Prover/z3/wiki#background).
+A context view of mopidy can be seen [here](https://github.com/mokieyue/hallo/blob/master/Context%20view%20of%20Mopidy.pdf).
